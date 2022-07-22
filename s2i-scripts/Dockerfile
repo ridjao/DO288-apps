@@ -1,1 +1,1 @@
-FROM default-route-openshift-image-registry.apps-crc.testing/ex288-dev/hello:latest
+FROM default-route-openshift-image-registry.apps-crc.testing/s2i-review/hello:latest
